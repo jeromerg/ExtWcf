@@ -1,0 +1,11 @@
+/_ReSharper.*
+
+/TestExtWcf/bin
+/TestExtWcf/obj
+
+/ExtWcf/bin
+/ExtWcf/obj
+
+
+*.suo
+/*.DotSettings.user
